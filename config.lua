@@ -1,10 +1,10 @@
 Config                            = {}
 Config.DrawDistance               = 100.0
 
-Config.EnablePlayerManagement     = true
-Config.EnableSocietyOwnedVehicles = false
+Config.EnablePlayerManagement     = false
+Config.EnableSocietyOwnedVehicles = true
 Config.EnableVaultManagement      = true
-Config.EnableHelicopters          = false
+Config.EnableHelicopters          = true
 Config.EnableMoneyWash            = true
 Config.MaxInService               = -1
 Config.Locale                     = 'en'
